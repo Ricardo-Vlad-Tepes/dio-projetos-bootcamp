@@ -1,7 +1,6 @@
 <center><h1><b>Projetos com HTML</b></h1>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="Diversidade-em-Tech" width="30%">
 </center>
-
 <br>
 <br>
 <h1><img src="https://cdn-icons-png.flaticon.com/128/1694/1694364.png" alt="Target" width="30"> <b>Objetivos:</h1></b>
@@ -14,6 +13,7 @@
 <br>
 <h1><img src="https://cdn-icons-png.flaticon.com/128/2115/2115955.png" alt="Code" width="30"> <b>Habilidades em Desenvolvimento:</b></h1>
 <ul><li>CSS</li>
+</ul>
 <br>
 <br>
 <h1><img src="https://cdn-icons-png.flaticon.com/128/2297/2297903.png" alt="Redes Sociais" width="30"> <b>Redes Sociais</b></h1>

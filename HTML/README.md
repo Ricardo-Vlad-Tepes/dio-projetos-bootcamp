@@ -18,6 +18,7 @@
 <br>
 <h1><img src="https://cdn-icons-png.flaticon.com/128/2115/2115955.png" alt="Code" width="30"> <b>Habilidades em Desenvolvimento:</b></h1>
 <ul><li>HTML</li>
+</ul>
 <br>
 <br>
 <h1><img src="https://cdn-icons-png.flaticon.com/128/2297/2297903.png" alt="Redes Sociais" width="30"> <b>Redes Sociais</b></h1>
