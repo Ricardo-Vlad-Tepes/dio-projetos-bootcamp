@@ -1,0 +1,256 @@
+html, body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  background-color: #f1f1f1;
+  display: contents;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  color: #5b098d;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  color: #5b098d;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  color: #5b098d;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  color: #5b098d;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  color: #5b098d;
+  font-weight: bold;
+}
+
+h6 {
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  color: #5b098d;
+  font-weight: bold;
+}
+
+p {
+  font-weight: 300;
+}
+
+.wrapper {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  background-color: aquamarine;
+}
+
+.main {
+  display: flex;
+  flex-flow: column;
+  width: 85%;
+}
+
+.menu {
+  width: 15%;
+  padding: 50px 20px 0px;
+  background-image: url('MENU-LATERAL-BACKGROUND-180X2000.png');
+}
+
+.header {
+  background-color: #5b098d;
+  min-height: 150px;
+}
+
+.content {
+  background-color: white;
+  min-height: 300px;
+  padding: 0px;
+}
+
+.footer {
+  background-color: rgb(99, 56, 240);
+  min-height: 150px;
+  background-color: #ffbc15;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 0px;
+  text-align: center;
+}
+
+.button {
+  font-family: "Roboto", sans-serif;
+  padding: 10px 25px 10px 25px;
+  color:#ffffff;
+  background-color: #5b098d;
+  border-radius: 30px;
+  border: 0px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #370854;
+  font-weight: bold;
+  text-decoration: none;
+}  
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+  
+.menu li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: #ffbc15;
+  color: #370854;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+  
+.menu li:hover {
+  background-color: #ebeaea;
+  color: #370854;
+  font-weight: bold;
+}
+
+.column-box-1 {
+  float: left;
+  text-align: center;
+  width: 16%;
+  padding: 35px;
+  height: 300px;
+  margin: 1%;
+  border-radius: 15px;
+  background-color: #ffbc15;
+  border-color: #370854;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.column-box-2 {
+  float: right;
+  text-align: center;
+  width: 16%;
+  padding: 35px;
+  height: 300px;
+  margin: 1%;
+  border-radius: 15px;
+  background-color: #ffbc15;
+  border-color: #370854;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.column-box-3 {
+  float: right;
+  text-align: center;
+  width: 16%;
+  padding: 35px;
+  height: 260px;
+  margin: 1%;
+  border-radius: 15px;
+  background-color: #370854;
+  border-color: #370854;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.column-box-4 {
+  float: left;
+  text-align: center;
+  width: 16%;
+  padding: 35px;
+  height: 300px;
+  margin: 1%;
+  border-radius: 15px;
+  background-color: #ebeaea;
+  border-color: #370854;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.div-box {
+  float: left;
+  text-align: center;
+  width: 22%;
+  margin: 1%;  
+}
+
+.column-1 {
+  display: block;
+  padding: 20px 10px;
+  height: 450px;
+  background-color: #370854;
+}
+
+.column-2 {
+  display: block;
+  padding: 90px 10px;
+  height: 870px;
+  background-image: url('BG-INDICAÇÕES.png');
+}
+
+.column-3 {
+  float: left;
+  text-align: center;
+  width: 48%;
+  margin: -3% 0% -1% 0%;
+}
+
+
+a:link { 
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+table thead tr {
+  background-color: black;
+  color: white;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #d8d8d8;
+}
+
+table tbody tr:hover td {
+  background-color: #370854;
+  color: white;
+  font-weight: bold;
+}
+
+.contact-l {
+  float: left;
+  width: 40%;
+  padding: 30px;
+  height: 420px;
+}
+
+.contact-r {
+  float: right;
+  width: 40%;
+  padding: 30px;
+  height: 420px;
+  background-color: #d8d8d8;
+}
